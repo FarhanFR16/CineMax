@@ -1,0 +1,9 @@
+# Mengabaikan folder cache library
+.dart_tool/
+
+# Mengabaikan folder build raksasa
+build/
+
+# Mengabaikan file konfigurasi Android Studio
+.idea/
+*.iml
